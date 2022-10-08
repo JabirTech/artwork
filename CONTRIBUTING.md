@@ -25,4 +25,9 @@ Since _Jabir Technologies_ is always open to innovating and pioneering technolog
 * Then, clone it to your local computer. `git clone https://github.com/<YOUR-USERNAME>/artwork` 
 * Create a branch
     * If you want to create a logo, create the branch like this `git checkout -b <YOUR-USERNAME>-logo`
+    * If you want to create a wallpaper, create the branch like this `git checkout -b <YOUR-USERNAME>-wallpaper`
+    * If you want to create a theme, create the branch like this `git checkout -b <YOUR-USERNAME>-theme`
+        * Currently, we haven't decided for the desktop environment of choice, so please be aware that your themes might not be released in official release channels in the future.
+    * If you want to create an icon theme, create the branch like this `git checkout -b <YOUR-USERNAME>-icon`
+* Put your creations in respective folders.
     * 
