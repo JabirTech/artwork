@@ -35,3 +35,7 @@ Since _Jabir Technologies_ is always open to innovating and pioneering technolog
     * If it's a theme, put the __theme folder__ in `themes`
     * If it's an icon theme, put the __icon theme folder__ in `icons`
 * Make a pull request
+
+## The Approval 
+
+_Jabir Technologies_ will review your pull requests. Every accepted logo, wallpaper, icon set or theme, will be merged with the `main` branch and it'll be used in further products. 
