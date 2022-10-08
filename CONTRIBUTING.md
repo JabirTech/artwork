@@ -18,3 +18,5 @@ Since _Jabir Technologies_ is always open to innovating and pioneering technolog
 ### Color Palette
 
 ![palette](palette.jpg)
+
+### How to register an artwork
