@@ -34,3 +34,4 @@ Since _Jabir Technologies_ is always open to innovating and pioneering technolog
     * If it's a wallpaper, put it in `wallpapers`
     * If it's a theme, put the __theme folder__ in `themes`
     * If it's an icon theme, put the __icon theme folder__ in `icons`
+* Make a pull request
