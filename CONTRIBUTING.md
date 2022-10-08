@@ -12,3 +12,5 @@ In the following document, you'll learn about the procedure of contributing to J
 ### AI generated material
 
 Since _Jabir Technologies_ is always open to innovating and pioneering technologies, there is no restrictions against AI generated material as long as they are not in violation of our policies. 
+
+## How to contirbute
