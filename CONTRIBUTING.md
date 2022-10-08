@@ -20,3 +20,9 @@ Since _Jabir Technologies_ is always open to innovating and pioneering technolog
 ![palette](palette.jpg)
 
 ### How to register an artwork
+
+* First, fork this repository into your own github account.
+* Then, clone it to your local computer. `git clone https://github.com/<YOUR-USERNAME>/artwork` 
+* Create a branch
+    * If you want to create a logo, create the branch like this `git checkout -b <YOUR-USERNAME>-logo`
+    * 
