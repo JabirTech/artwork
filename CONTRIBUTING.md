@@ -30,4 +30,7 @@ Since _Jabir Technologies_ is always open to innovating and pioneering technolog
         * Currently, we haven't decided for the desktop environment of choice, so please be aware that your themes might not be released in official release channels in the future.
     * If you want to create an icon theme, create the branch like this `git checkout -b <YOUR-USERNAME>-icon`
 * Put your creations in respective folders.
-    * 
+    * If it's a logo, put it in `logos`. 
+    * If it's a wallpaper, put it in `wallpapers`
+    * If it's a theme, put the __theme folder__ in `themes`
+    * If it's an icon theme, put the __icon theme folder__ in `icons`
